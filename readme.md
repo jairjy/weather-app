@@ -545,20 +545,10 @@ Web browser like Chrome, Mozilla or similar.
 ### Original Project Source
 https://www.theodinproject.com/courses/javascript/lessons/weather-app
 
-### Github Repo
-https://github.com/geraldgsh/weather-app
 
 ### Future feature
 1. Add delete button for individual weather card
 2. Get a google place local image on page background using API for local weather
-
-👤 **Author**
-
-Github: [geraldgsh](https://github.com/geraldgsh)
-
-Twitter: [geraldgsh](https://github.com/geraldgsh)
-
-Linkedin: [Gerald Goh](https://www.linkedin.com/geraldgsh)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
